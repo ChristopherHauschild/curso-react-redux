@@ -6,7 +6,7 @@
 </p>
 
 <div align="center">
-  <img src="" width="800px" />
+  <img src="https://github.com/ChristopherHauschild/curso-react-redux/blob/master/logo.png?raw=true" width="800px" />
 </div>
 
 <hr>
