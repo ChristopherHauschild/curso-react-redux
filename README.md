@@ -33,7 +33,7 @@
  <li>Aplicar boas práticas de desenvolvimento</li>
 </ul>
 
-### Duração do curso: :clock_1:
+### Duração do curso: :clock1:
 
 O curso tem a duração total de pouco mais de 40 horas.
 
