@@ -1,1 +1,2 @@
 - Propriedades são somente leitura
+- Comunicação de componentes filhos para componente pai ocorre via função
