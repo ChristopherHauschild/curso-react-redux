@@ -1,3 +1,7 @@
+/*
+  Gera um novo número caso o array já inclua o numero gerado
+*/
+
 function numbersDiferent(min, max, array) {
   const aleatory = parseInt(Math.random() * (max + 1 - min)) + min
 
