@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 
-import { numbersGenerator } from '../../data/numbersGenerator'
+import { numbersGenerator } from '../../helpers/numbersGenerator'
 
 import './Mega.css'
 
