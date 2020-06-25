@@ -4,7 +4,7 @@ Aplicação desenvolvida durante o segundo módulo do curso React + Redux dispon
 
 <hr>
 <p align="center">
-  <img src="https://github.com/ChristopherHauschild/projeto-calculador-react/blob/master/calculator.PNG?raw=true"/>
+  <img src="https://github.com/ChristopherHauschild/curso-react-redux/blob/master/calculator/CALC.gif?raw=true"/>
 </p>
 
 ## Linguagens e tecnologias utilizadas no projeto: :computer:
