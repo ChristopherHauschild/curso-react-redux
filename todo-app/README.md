@@ -3,11 +3,13 @@
 <p align="justify">
 Aplicação desenvolvida durante as seções 4 e 5 do curso React + Redux, lecionado pelo mestre em SI Leonardo Leitão através da plataforma Cod3, que tem como objetivo capacitar o aluno a atuar com o React, ofertando para isso, um conteúdo completo que engloba, além do React e Redux, o Webpack, Redux-Form, MongoDB, Express e Node. Além de trabalhar estas tecnologias através de exercícios práticos, durante o curso são desenvolvidas duas aplicações completas do zero, tanto no backend quanto frontend.
 Para esta aplicação, desenvolveu-se tanto o backend, utilizando o Node.js e MongoDB, quanto o frontend, utilizando o React junto ao Bootstrap.
-</p>
+</p> <br /> <br />
 
 <div align="center">
   <img src="https://github.com/ChristopherHauschild/curso-react-redux/blob/master/todo-app/TDAPP.gif?raw=true" width="900px" />
 </div>
+
+<hr>
 
 ## Linguagens e tecnologias utilizadas no projeto: :computer:
 <ul>
