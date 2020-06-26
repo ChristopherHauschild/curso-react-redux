@@ -23,6 +23,7 @@ Para esta aplicação, desenvolveu-se tanto o backend, utilizando o Node.js e Mo
 Após clonar o fazer o download deste repositório, rode o comando `yarn` ou `npm install` para instalar as depedências, tanto no diretório `backend` quanto no `frontend`
 
 Para ver o backend da aplicação em funcionamento em `http://localhost:3030`, rode o comando `yarn dev` ou `npm run dev`.
+
 Para ver o frontend da aplicação em funcionamento em `http://localhost:8080`, rode o comando `yarn dev` ou `npm run dev`.
 
 Obs: você deve ainda se certificar de que o servidor do MongoDB esteja rodando, para isso você pode utilizar o comando `mongod`.
