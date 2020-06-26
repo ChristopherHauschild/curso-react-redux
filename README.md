@@ -33,6 +33,10 @@
  <li>Aplicar boas práticas de desenvolvimento</li>
 </ul>
 
+## Projetos desenvolvidos: :rocket:
+
+<p align="center"><a href="https://github.com/ChristopherHauschild/curso-react-redux/tree/master/calculator">Calculator</a></p>
+
 ### Duração do curso: :clock1:
 
 O curso tem a duração total de pouco mais de 40 horas.

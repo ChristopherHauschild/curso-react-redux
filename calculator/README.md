@@ -1,10 +1,10 @@
 # <p align="center"> :heavy_division_sign: &nbsp; Calculator &nbsp; :heavy_division_sign: </p>
 
-Aplicação desenvolvida durante o segundo módulo do curso React + Redux disponibilizado pelo mestre em Informática Aplicada Leonardo Leitão, através da plataforma Cod3r. O curso visa capacitar o aluno a atuar com React, ofertando para isso, um conteúdo completo que engloba, além do React e Redux, o Webpack, Redux-Form, MongoDB, Express e Node. Além de trabalhar estas tecnologias através de exercícios práticos, durante o curso são desenvolvidas duas aplicações completas do zero, tanto no backend quanto frontend.
+Aplicação desenvolvida durante a terceira seção do curso React + Redux disponibilizado pelo mestre em Informática Aplicada Leonardo Leitão, através da plataforma Cod3r. O curso visa capacitar o aluno a atuar com React, ofertando para isso, um conteúdo completo que engloba, além do React e Redux, o Webpack, Redux-Form, MongoDB, Express e Node. Além de trabalhar estas tecnologias através de exercícios práticos, durante o curso são desenvolvidas duas aplicações completas do zero, tanto no backend quanto frontend.
 
 <hr>
 <p align="center">
-  <img src="https://github.com/ChristopherHauschild/projeto-calculador-react/blob/master/calculator.PNG?raw=true"/>
+  <img src="https://github.com/ChristopherHauschild/curso-react-redux/blob/master/calculator/CALC.gif?raw=true"/>
 </p>
 
 ## Linguagens e tecnologias utilizadas no projeto: :computer:
