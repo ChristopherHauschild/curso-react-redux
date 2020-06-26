@@ -6,7 +6,7 @@ Para esta aplicação, desenvolveu-se tanto o backend, utilizando o Node.js e Mo
 </p>
 
 <div align="center">
-  <img src="" width="900px" />
+  <img src="https://github.com/ChristopherHauschild/curso-react-redux/blob/master/todo-app/TDAPP.gif?raw=true" width="900px" />
 </div>
 
 ## Linguagens e tecnologias utilizadas no projeto: :computer:
