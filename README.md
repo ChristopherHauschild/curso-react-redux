@@ -35,7 +35,7 @@
 
 ## Projetos desenvolvidos: :rocket:
 
-<p align="center"><a href="https://github.com/ChristopherHauschild/curso-react-redux/tree/master/calculator">Calculator</a></p>
+<p align="center"><a href="https://github.com/ChristopherHauschild/curso-react-redux/tree/master/calculator">Calculator</a> | <a href="https://github.com/ChristopherHauschild/curso-react-redux/blob/master/todo-app/">Todo App</a></p>
 
 ### Duração do curso: :clock1:
 
