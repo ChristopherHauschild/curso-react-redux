@@ -11,6 +11,10 @@
 
 <hr>
 
+## Projetos desenvolvidos: :rocket:
+
+### <p align="center"><a href="https://github.com/ChristopherHauschild/curso-react-redux/tree/master/calculator">Calculator</a> &nbsp; | &nbsp; <a href="https://github.com/ChristopherHauschild/curso-react-redux/blob/master/todo-app/">Todo App</a> &nbsp; | &nbsp; <a href="https://github.com/ChristopherHauschild/curso-react-redux/blob/master/todo-app/">Todo App (Redux)</a></p>
+
 ## Tecnologias utilizadas: :computer:
 
 <ul>
@@ -32,10 +36,6 @@
  <li>Desenvolver uma aplicação full-stack em Javascript</li>
  <li>Aplicar boas práticas de desenvolvimento</li>
 </ul>
-
-## Projetos desenvolvidos: :rocket:
-
-### <p align="center"><a href="https://github.com/ChristopherHauschild/curso-react-redux/tree/master/calculator">Calculator</a> &nbsp; | &nbsp; <a href="https://github.com/ChristopherHauschild/curso-react-redux/blob/master/todo-app/">Todo App</a></p>
 
 ### Duração do curso: :clock1:
 
