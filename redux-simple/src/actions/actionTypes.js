@@ -1,0 +1,2 @@
+export const NUM_MIN_CHANGED = 'NUM_MIN_CHANGED'
+export const NUM_MAX_CHANGED = 'NUM_MAX_CHANGED'
