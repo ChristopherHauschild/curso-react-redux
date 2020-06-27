@@ -1,8 +1,10 @@
 # <p align="center"> :heavy_check_mark: &nbsp; Todo App &nbsp; :heavy_multiplication_x: </p>
 
 <p align="justify">
-Aplicação desenvolvida durante as seções 4 e 5 do curso React + Redux, lecionado pelo mestre em SI Leonardo Leitão através da plataforma Cod3, que tem como objetivo capacitar o aluno a atuar com o React, ofertando para isso, um conteúdo completo que engloba, além do React e Redux, o Webpack, Redux-Form, MongoDB, Express e Node. Além de trabalhar estas tecnologias através de exercícios práticos, durante o curso são desenvolvidas duas aplicações completas do zero, tanto no backend quanto frontend.
+Aplicação desenvolvida durante as seções 4, 5 e 7 do curso React + Redux, lecionado pelo mestre em SI Leonardo Leitão através da plataforma Cod3, que tem como objetivo capacitar o aluno a atuar com o React, ofertando para isso, um conteúdo completo que engloba, além do React e Redux, o Webpack, Redux-Form, MongoDB, Express e Node. Além de trabalhar estas tecnologias através de exercícios práticos, durante o curso são desenvolvidas duas aplicações completas do zero, tanto no backend quanto frontend.
 Para esta aplicação, desenvolveu-se tanto o backend, utilizando o Node.js e MongoDB, quanto o frontend, utilizando o React junto ao Bootstrap.
+  
+<b>Frontend-redux:</b> durante a seção 7 do curso, realizou-se a refatoração da aplicação utilizando o Redux.
 </p> <br /> <br />
 
 <div align="center">
@@ -16,6 +18,7 @@ Para esta aplicação, desenvolveu-se tanto o backend, utilizando o Node.js e Mo
   <li>Node.js</li>
   <li>MongoDB</li>
   <li>React</li>
+  <li>Redux</li>
   <li>Bootstrap</li>
   <li>HTML, CSS e JavaScript</li>
 </ul>
