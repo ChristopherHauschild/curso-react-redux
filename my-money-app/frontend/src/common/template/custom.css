@@ -1,0 +1,20 @@
+.main-footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+.main-footer strong {
+  margin-right: 8px;
+}
+
+.main-footer a {
+  margin-left: 10px;
+
+  color: #333;
+  text-decoration: none;
+}
+
+.main-footer a i {
+  margin-right: 4px;
+}
