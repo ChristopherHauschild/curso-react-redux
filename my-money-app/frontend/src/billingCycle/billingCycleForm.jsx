@@ -7,6 +7,7 @@ import { init } from './billingCycleActions'
 
 import labelAndInput from '../common/form/labelAndInput'
 import ActionButton from '../common/template/actionButton'
+import CreditList from './creditList'
 
 // reduxForm -> equivalente ao connect
 // Field -> controla campos do form
@@ -43,6 +44,8 @@ class BillingCycleForm extends Component {
             type='number'
             component={labelAndInput}
             readOnly={readOnly} />
+          
+          <CreditList cols='12 6' />
         </div>
         <div className='box-footer'>
           {/* onClick já definido a partir do type submit */}
