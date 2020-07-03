@@ -12,7 +12,12 @@ import TabHeader from '../common/tab/tabHeader'
 import TabsContent from '../common/tab/tabsContent'
 import TabContent from '../common/tab/tabContent'
 
+import List from './billingCycleList'
+
 import { selectTab, showTabs } from '../common/tab/tabActions'
+import { create, update, remove } from './billingCycleActions'
+
+import Form from './billingCycleForm'
 
 class BillingCycle extends Component {
   componentWillMount() {
@@ -34,10 +39,22 @@ class BillingCycle extends Component {
             </TabsHeader>
 
             <TabsContent>
-              <TabContent id='tabList'><h1>Lista</h1></TabContent>
-              <TabContent id='tabCreate'><h1>Incluir</h1></TabContent>
-              <TabContent id='tabUpdate'><h1>Alterar</h1></TabContent>
-              <TabContent id='tabDelete'><h1>Excluir</h1></TabContent>
+              <TabContent id='tabList'>
+                <List />
+              </TabContent>
+              <TabContent id='tabCreate'>
+                <Form onSubmit={this.props.create}
+                  submitLabel='Incluir' submitClass='primary' />
+              </TabContent>
+              <TabContent id='tabUpdate'>
+              {/* // initialize em actions -> inicializa form com os dados passados como parâmetro */}
+                <Form onSubmit={this.props.update}
+                  submitLabel='Alterar' submitClass='info' />
+              </TabContent>
+              <TabContent id='tabDelete'>
+                <Form onSubmit={this.props.remove} readOnly 
+                  submitLabel='Excluir' submitClass='danger' />
+              </TabContent>
             </TabsContent>
           </Tabs>
         </Content>
@@ -47,6 +64,7 @@ class BillingCycle extends Component {
 }
 
 // selectTab torna-se disponível para o componente
-const mapDispatchToProps = dispatch => bindActionCreators({selectTab, showTabs}, dispatch)
+const mapDispatchToProps = dispatch =>
+  bindActionCreators({ selectTab, showTabs, create, update, remove }, dispatch)
 
 export default connect(null, mapDispatchToProps)(BillingCycle)

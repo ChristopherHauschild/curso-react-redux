@@ -18,3 +18,11 @@
 .main-footer a i {
   margin-right: 4px;
 }
+
+button {
+  margin-left: 6px;
+}
+
+.table-actions {
+  width: 150px;
+}
