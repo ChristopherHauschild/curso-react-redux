@@ -6,7 +6,7 @@ export default props => {
   return (
     <li className='treeview'>
       <a href>
-        <i className={`fa fa-${icon}`}></i> {label}
+        <i className={`fa fa-${icon}`}></i> <span>{label}</span>
         <i className='fa fa-angle-right pull-right'></i>
       </a>
       <ul className='treeview-menu'>
