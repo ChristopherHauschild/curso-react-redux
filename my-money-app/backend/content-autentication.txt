@@ -1,0 +1,4 @@
+1 - criado usuário com ODM
+2 - criado método login, logout e validateToken
+3 - habilitado cors para header
+4 - definidas as rotas protegidas
