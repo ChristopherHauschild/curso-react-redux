@@ -13,7 +13,7 @@
 
 ## Projetos desenvolvidos: :rocket:
 
-### <p align="center"><a href="https://github.com/ChristopherHauschild/curso-react-redux/tree/master/calculator">Calculator</a> &nbsp; | &nbsp; <a href="https://github.com/ChristopherHauschild/curso-react-redux/blob/master/todo-app/">Todo App</a> &nbsp; | &nbsp; <a href="https://github.com/ChristopherHauschild/curso-react-redux/blob/master/todo-app/">Todo App (Redux)</a></p>
+### <p align="center"><a href="https://github.com/ChristopherHauschild/curso-react-redux/tree/master/calculator">Calculator</a> &nbsp; | &nbsp; <a href="https://github.com/ChristopherHauschild/curso-react-redux/blob/master/todo-app/">Todo App</a> &nbsp; | &nbsp; <a href="https://github.com/ChristopherHauschild/curso-react-redux/blob/master/todo-app/">Todo App (Redux)</a> &nbsp; | &nbsp; <a href="https://github.com/ChristopherHauschild/curso-react-redux/tree/master/my-money-app">My Money App</a></p>
 
 ## Tecnologias utilizadas: :computer:
 
